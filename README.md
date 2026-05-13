@@ -5,7 +5,7 @@
 
 ### ☁️ Focus
 * Studente del biennio 2025/2027 focalizzato sulla progettazione e gestione di infrastrutture Cloud.
-* Appassionato di automazione, sistemi distribuiti e metodologie Agile.
+* Appassionato di automazione, sistemi distribuiti.
 
 ### 🛠️ Tech Stack
 * **Cloud:** `Azure` · `AWS` · `GCP`
