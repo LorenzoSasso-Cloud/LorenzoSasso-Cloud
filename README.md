@@ -1,17 +1,17 @@
 # Lorenzo Sasso
-**Cloud Specialist Student @ ITS Torino**
+
+> **Cloud Specialist Student @ ITS Torino** > Focalizzato sulla progettazione, automazione e gestione di infrastrutture cloud e sistemi distribuiti.
 
 ---
 
-### ☁️ Focus
-* Studente del biennio 2025/2027 focalizzato sulla progettazione e gestione di infrastrutture Cloud.
-* Appassionato di automazione, sistemi distribuiti.
+### 💻 Tech Stack
 
-### 🛠️ Tech Stack
-* **Cloud:** `Azure` · `AWS` · `GCP`
-* **Containers:** `Docker` · `Kubernetes`
-* **OS & Tools:** `Linux` · `Git` · `Prompt Engineering`
-* **Dev:** `Python` · `.NET/C#` · `SQL` · `REST API`
+* **Cloud & Containers:** Azure | AKS | GCP | Docker | Kubernetes
+* **Dev & Databases:** Python | .NET / C# | SQL | REST API
+* **OS & Tools:** Linux | Git | Prompt Engineering
 
-### 📍 Connect
-[LinkedIn](https://www.linkedin.com/in/lorenzo-sasso-/) / [Email](mailto:lorenzo.sasso.cloud@gmail.com) / Torino, IT
+---
+
+### 🌐 Connect with me
+
+[LinkedIn](https://linkedin.com/in/tuo-profilo) • [Email](mailto:tua.email@esempio.com) • 📍 Torino, IT
